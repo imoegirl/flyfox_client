@@ -1,0 +1,19 @@
+{
+  "name": "flyfox_client",
+  "version": "1.0.0",
+  "description": "用于测试FlyFox的客户端测试代码",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node ./main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imoegirl/flyfox_client.git"
+  },
+  "author": "imoegirl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imoegirl/flyfox_client/issues"
+  },
+  "homepage": "https://github.com/imoegirl/flyfox_client#readme"
+}
